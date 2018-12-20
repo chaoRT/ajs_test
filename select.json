@@ -1,0 +1,6 @@
+[
+  {"label": "First Value"},
+  {"label": "Second Value"},
+  {"label": "Third Value", "value": "third-value"},
+  {"label": "Fourth Value", "value": "fourth-value", "img-src": "url/avatar.png"}
+]
